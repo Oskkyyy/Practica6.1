@@ -8,7 +8,7 @@ const Layout =({children}) => {
                 {children}
             </Container>
             <Box className="footer">
-                <p>Todos los derechos reservados 2025</p>
+                <p align="center">Todos los derechos reservados 2025</p>
             </Box>
         </Box>
     );
