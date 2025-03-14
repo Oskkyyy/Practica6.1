@@ -3,7 +3,7 @@ import {AppBar, Box, Toolbar, Typography, Button, IconButton, Menu, Container, A
 import MenuIcon from '@mui/icons-material/Menu';
 import AdbIcon from '@mui/icons-material/Adb';
 
-const pages = ['Inicio', 'Acerca de', 'Lorem'];
+const pages = ['Inicio', 'Acerca_de', 'Lorem'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 const Navbar = () =>{
