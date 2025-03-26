@@ -1,6 +1,8 @@
 import * as React from 'react';
 import Carousel from "./Carousel";
 import Navbar from "./Navbar";
+import PokemonCard from "./PokemonCard";
+import Pokedex from "./Pokedex";
 
 function Home(){
     return(
